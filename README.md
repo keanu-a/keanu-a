@@ -9,7 +9,8 @@ what coding should be like rather than just a lot of obstacles.
 Now, coding is a lot more fun and a lot more rewarding when everything works at the end. 
 
 ## Interest
-I have many interest like in web development, backend development, game development, software engineering, and even machine learning.
+I have many CS related interests like in web development, backend development, game development, software engineering, and even machine learning.
+Non-CS related interests include traveling, eating, going to the gym, and playing piano.
 
 ## Education
 I am currently sharpening my skills with C++ at the University of Nevada, Las Vegas. I began my computer science degree at the University of Nevada, Reno where I learned C and C++.
