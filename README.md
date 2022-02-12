@@ -1,7 +1,7 @@
 # Hi, I'm Keanu.
 
 ## My brief CS Journey
-I had a really rough start when I first started coding because a lot of things didn't make sense. I even switched my major out of Computer Science for a semester. However, after switching back to Computer Science and focusing, I can say I am a decent programmer. What really helped was seeing what you could create with code, even if it is really small. Self teaching myself Python helped, since I was able to make video games and make user interfaces compared to the projects made in my college classes. After basically 2 years of Computer Science, I went from hating coding, to looking forward to code more. 
+I had a really rough start when I first started coding because a lot of things didn't make sense. I even switched my major out of Computer Science for a semester. However, I felt Computer Science was for me, so I switched back. I switched mindsets and focused on how all the pieces work together. What really helped was seeing what you could create with code, even if it is really small. Self teaching myself Python helped, since I was able to make video games and make user interfaces compared to the projects made in my college classes. After basically 2 years of Computer Science, I went from being completely clueless with C++ to understanding it tremendously. Furthermore, I went from hating coding, to looking forward to code more. 
 
 ## About Me
 I have many CS related interests like in web development, backend development, game development, software engineering, and even machine learning.
