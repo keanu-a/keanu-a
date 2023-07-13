@@ -14,6 +14,6 @@ Relevant Coursework: Intro to Object Oriented Programming, Data Structures, Digi
 Aside from my college classes, I decided to learn some Python, HTML/CSS, and JavaScript (Vanilla, React, Node)
 
 ## Contact Me
-My preferred way to reach me is by email or phone number:
+My preferred way to reach me is by email:
 - Email: keanucaloua@gmail.com
 - Website: https://keanu-portfolio-site.netlify.app/
