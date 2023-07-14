@@ -16,4 +16,4 @@ Aside from my college classes, I decided to learn some Python, HTML/CSS, and Jav
 ## Contact Me
 My preferred way to reach me is by email:
 - Email: keanucaloua@gmail.com
-- Website: (https://keanu-portfolio.vercel.app/)https://keanu-portfolio.vercel.app/
+- Website: https://keanu-portfolio.vercel.app/
