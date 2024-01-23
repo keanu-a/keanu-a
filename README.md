@@ -5,9 +5,9 @@ I had a really rough start when I first started coding because a lot of things d
 
 ## Education
 I am currently attending the University of Nevada, Las Vegas as a Computer Science Major. I went to the University of Nevada, Reno for my first two years.
-Relevant Coursework: Algorithms, Data Structures, Operating Systems, Compiler Construction, Digital Design, Automata and Formal Languages, Cloud Computing, Building Applications on the Cloud
+Relevant Coursework: Algorithms, Data Structures, Operating Systems, Compiler Construction, Digital Design, Automata and Formal Languages, Cloud Computing, Building Applications on the Cloud, Software Engineering
 
-Aside from my college classes, I decided to learn some Python, HTML/CSS, and JavaScript (Vanilla, React, Node) on my own.
+Aside from my college classes, I decided to learn some Python, HTML/CSS, JavaScript, TypeScript, and many web frameworks like React and Next.js on my own.
 
 ## Contact Me
 - Email: keanucaloua@gmail.com
