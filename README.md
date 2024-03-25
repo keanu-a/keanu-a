@@ -1,14 +1,26 @@
-# Hi, I'm Keanu.
+### Whats up, I'm Keanu 👋🏽  
 
-## Welcome
-I had a really rough start when I first started coding because a lot of things didn't make sense. I even switched my major out of Computer Science for a semester. But I switched back and now I am focused, and ready to learn more. Ever since I switched back to Computer Science, I grinded and now coding is actually pretty fun. 
+I'm a 22-year-old Computer Science major at the University of Nevada, Las Vegas and expected to graduate May 2024.
 
-## Education
-I am currently attending the University of Nevada, Las Vegas as a Computer Science Major. I went to the University of Nevada, Reno for my first two years.
-Relevant Coursework: Algorithms, Data Structures, Operating Systems, Compiler Construction, Digital Design, Automata and Formal Languages, Cloud Computing, Building Applications on the Cloud, Software Engineering
+- Check out my [website](https://keanu-portfolio.vercel.app/) to learn more about me.
+ 
+## 📦 Toolbox
 
-Aside from my college classes, I decided to learn some Python, HTML/CSS, JavaScript, TypeScript, and many web frameworks like React and Next.js on my own.
+**Frontend Development:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind` 
+ 
+**Version Control:** `Git`
 
-## Contact Me
-- Email: keanucaloua@gmail.com
-- Website: https://keanu-portfolio.vercel.app/
+**Backend Development:** `Express.js` `Django REST Framework` `Postgresql` `MongoDB` `Amazon S3` `Amazon RDS`
+
+**Testing:** `Postman`
+
+**Other:** `Python` `C/C++` `Java`
+ 
+## ✨ Fun Facts 
+
+- I play piano and cello.
+- I love hiking, playing volleyball, and bowling.
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/keanu-aloua/). 
