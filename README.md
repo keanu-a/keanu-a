@@ -1,6 +1,6 @@
 ### Whats up, I'm Keanu 👋🏽  
 
-I'm a 22-year-old Computer Science major at the University of Nevada, Las Vegas and expected to graduate May 2024.
+I'm a 23-year-old Computer Science major at the University of Nevada, Las Vegas and expected to graduate May 2024.
 
 - Check out my [website](https://keanu-portfolio.vercel.app/) to learn more about me.
  
@@ -10,7 +10,7 @@ I'm a 22-year-old Computer Science major at the University of Nevada, Las Vegas 
  
 **Version Control:** `Git`
 
-**Backend Development:** `Express.js` `Django REST Framework` `Postgresql` `MongoDB` `Amazon S3` `Amazon RDS`
+**Backend Development:** `Spring Boot` `Express.js` `Django REST Framework` `Postgresql` `MongoDB` `AWS`
 
 **Testing:** `Postman`
 
