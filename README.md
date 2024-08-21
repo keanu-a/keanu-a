@@ -14,7 +14,7 @@ I'm a 23-year-old Computer Science major at the University of Nevada, Las Vegas 
 
 **Testing:** `Postman`
 
-**Other:** `Python` `C/C++` `Java`
+**Other:** `C/C++` `Lua` `Roblox Studio`
  
 ## ✨ Fun Facts 
 
