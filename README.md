@@ -10,7 +10,7 @@ I'm a 23-year-old that graduated May 2024 with a B.S. in Computer Science from t
  
 **Version Control:** `Git`
 
-**Backend Development:** `Spring Boot` `Express.js` `Django REST Framework` `Postgresql` `MongoDB` `AWS`
+**Backend Development:** `Spring Boot` `Express.js` `Django REST Framework` `Spring` `Spring Boot` `Postgresql` `MongoDB` `AWS`
 
 **Testing:** `Postman`
 
