@@ -1,6 +1,6 @@
 ### Whats up, I'm Keanu 👋🏽  
 
-I'm a 23-year-old Computer Science major at the University of Nevada, Las Vegas and expected to graduate May 2024.
+I'm a 23-year-old that graduated May 2024 with a B.S. in Computer Science from the University of Nevada, Las Vegas.
 
 - Check out my [website](https://keanu-portfolio.vercel.app/) to learn more about me.
  
@@ -14,12 +14,7 @@ I'm a 23-year-old Computer Science major at the University of Nevada, Las Vegas 
 
 **Testing:** `Postman`
 
-**Other:** `C/C++` `Lua` `Roblox Studio`
- 
-## ✨ Fun Facts 
-
-- I play piano and cello.
-- I love hiking, playing volleyball, and bowling.
+**Other:** `C/C++` `Lua` `Roblox Studio` `Modbus TCP` `UDP` `Hardware & Softwre Integration`
 
 ## 📫 Contact
 
