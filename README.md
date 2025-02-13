@@ -14,7 +14,7 @@ I'm a 23-year-old that graduated May 2024 with a B.S. in Computer Science from t
 
 **Testing:** `Postman`
 
-**Other:** `C/C++` `Lua` `Roblox Studio` `Modbus TCP` `UDP` `Hardware & Softwre Integration`
+**Other:** `C/C++` `Multithreading` `Modbus TCP` `UDP` `Hardware & Softwre Integration`
 
 ## 📫 Contact
 
