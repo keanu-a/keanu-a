@@ -2,7 +2,7 @@
 
 I'm a 23-year-old that graduated May 2024 with a B.S. in Computer Science from the University of Nevada, Las Vegas.
 
-- Check out my [website](https://keanu-portfolio.vercel.app/) to learn more about me.
+- Check out my [website](https://keanualoua.com/) to learn more about me.
  
 ## 📦 Toolbox
 
