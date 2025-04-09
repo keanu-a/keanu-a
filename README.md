@@ -1,21 +1,20 @@
-### Whats up, I'm Keanu 👋🏽  
+### 👋🏽 Hey, I'm Keanu
 
-I'm a 23-year-old that graduated May 2024 with a B.S. in Computer Science from the University of Nevada, Las Vegas.
+I'm a 23-year-old software engineer based in Las Vegas, recently graduated with a B.S. in Computer Science from UNLV (May 2024). I build things that are useful, fast, and feel good to use.
 
-- Check out my [website](https://keanualoua.com/) to learn more about me.
- 
-## 📦 Toolbox
+Right now, I’m working on **Easy Tagalog**, a full-stack app that teaches Tagalog in a Duolingo-style experience.
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind` 
- 
-**Version Control:** `Git`
+Outside of tech, you’ll find me at the gym, playing piano, exploring food spots, or hanging out with my 4 dogs.
 
-**Backend Development:** `Spring Boot` `Express.js` `Django REST Framework` `Spring` `Spring Boot` `Postgresql` `MongoDB` `AWS`
+🖥️ [Portfolio](https://keanualoua.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/keanu-aloua/)
 
-**Testing:** `Postman`
+---
 
-**Other:** `C/C++` `Multithreading` `Modbus TCP` `UDP` `Hardware & Softwre Integration`
+### 🧰 Toolbox
 
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/keanu-aloua/). 
+**Frontend**: `React` `Next.js` `TypeScript` `Tailwind CSS`  
+**Backend**: `Spring Boot` `Express` `Django REST`  
+**Databases**: `PostgreSQL` `MongoDB`  
+**Infra**: `Docker` `AWS`  
+**Other**: `C/C++` `Modbus` `Multithreading`  
