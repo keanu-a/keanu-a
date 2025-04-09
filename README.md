@@ -6,6 +6,8 @@ I love building software that makes a difference - whether that’s helping some
 
 Open to anything that helps me grow. Always eager to learn more.
 
+When I’m not coding, I'm at the gym, playing piano or video games, exploring new food spots, traveling, getting too competitive at board games, or hanging out with my four dogs.
+
 🖥️ [Portfolio](https://keanualoua.com/)  
 💼 [LinkedIn](https://www.linkedin.com/in/keanu-aloua/)
 
@@ -17,4 +19,5 @@ Open to anything that helps me grow. Always eager to learn more.
 **Backend**: `Spring Boot` `Express` `Django REST`  
 **Databases**: `PostgreSQL` `MongoDB`  
 **Infra**: `Docker` `AWS`  
-**Other**: `C/C++` `Modbus` `Multithreading`  
+**AI/ML**: `OpenAI API` `PyTorch`  
+**Other**: `C/C++` `Modbus` `Multithreading` `OpenAI` `PyTorch`
