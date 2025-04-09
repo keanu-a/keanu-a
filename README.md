@@ -20,4 +20,4 @@ When I’m not coding, I'm at the gym, playing piano or video games, exploring n
 **Databases**: `PostgreSQL` `MongoDB`  
 **Infra**: `Docker` `AWS`  
 **AI/ML**: `OpenAI API` `PyTorch`  
-**Other**: `C/C++` `Modbus` `Multithreading` `OpenAI` `PyTorch`
+**Other**: `C/C++` `Modbus` `Multithreading` `Hardware/Software Integration`
