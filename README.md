@@ -15,9 +15,9 @@ When I’m not coding, I'm at the gym, playing piano or video games, exploring n
 
 ### 🧰 Toolbox
 
-**Frontend**: `React` `Next.js` `TypeScript` `Tailwind CSS`  
-**Backend**: `Spring Boot` `Express` `Django REST`  
+**Frontend**: `React.js` `Next.js` `TypeScript` `Tailwind CSS`  
+**Backend**: `Spring Boot` `Java` `Express.js` `Django REST`  
 **Databases**: `PostgreSQL` `MongoDB` `Supabase`  
-**Infra**: `Docker` `AWS`  
+**Infra**: `Docker` `AWS` `Render`  
 **AI/ML**: `OpenAI API` `PyTorch`  
 **Other**: `C/C++` `Modbus` `Multithreading` `Hardware/Software Integration`
