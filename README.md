@@ -17,7 +17,7 @@ When I’m not coding, I'm at the gym, playing piano or video games, exploring n
 
 **Frontend**: `React` `Next.js` `TypeScript` `Tailwind CSS`  
 **Backend**: `Spring Boot` `Express` `Django REST`  
-**Databases**: `PostgreSQL` `MongoDB` `Supabase`
+**Databases**: `PostgreSQL` `MongoDB` `Supabase`  
 **Infra**: `Docker` `AWS`  
 **AI/ML**: `OpenAI API` `PyTorch`  
 **Other**: `C/C++` `Modbus` `Multithreading` `Hardware/Software Integration`
